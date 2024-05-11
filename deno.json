@@ -1,0 +1,5 @@
+{
+  "name": "@secext2022/hello",
+  "version": "0.1.0",
+  "exports": "./src/lib.ts"
+}
