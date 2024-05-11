@@ -6,7 +6,15 @@
 
 A simple package to learn publish on jsr.io
 
-TODO
+<https://jsr.io/@secext2022/hello>
+
+## Usage
+
+```js
+import { hello } from "@secext2022/hello";
+
+hello();
+```
 
 ## LICENSE
 
