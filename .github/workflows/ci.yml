@@ -18,6 +18,7 @@ jobs:
         deno-version: v1.x
 
     - run: deno fmt --check
+    - run: deno lint
 
     # publish jsr.io
     - run: npx jsr publish

@@ -3,10 +3,9 @@
 <https://github.com/secext2022/hello_jsr>
 
 ![CI](https://github.com/secext2022/hello_jsr/actions/workflows/ci.yml/badge.svg)
+[![JSR](https://jsr.io/badges/@secext2022/hello)](https://jsr.io/@secext2022/hello)
 
 A simple package to learn publish on jsr.io
-
-<https://jsr.io/@secext2022/hello>
 
 ## Usage
 
